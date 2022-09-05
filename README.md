@@ -85,6 +85,8 @@ Lightweight framework designed to solve complex problems that required sprinting
 
 ### Other Roles in Agile
 
+![image](https://user-images.githubusercontent.com/11480617/188491980-9dbb7be9-83d3-4f0f-87c2-42f57a6e30d2.png)
+
 The Role Triangele
 - ***Product Owner:*** Brings buiness vision including what and why.
 - ***Development Team:*** Defines technical vision self-organizing decides how.
@@ -94,4 +96,7 @@ The Role Triangele
 - ***Technology Leader:*** Hires team members with the right skillset, gives up control-empowers, trust, and supports the team, Enables access to necessary technology resources, Escalates resolution to idetified impediments as needed, Participates in sprint reviews and other feedback demos, Encourges cross-team /cross-depatment collaboration, Acknowledges team successes and resolves team conflicts, Enusrs solution is aligned with organizational standards. 
 - ***Agile Detractors(aitraz) - Leadership***: Demands mid-sprint changes, Hijacks ceremonies to discuss high-priority topics, Not available for demos then requests changes at the sprint review, Discourages communication with other teams, Removes or changes available resources mid-project, Doesn't value the agile mindset peple over processes and communcation over documentation. 
 - ***Subject Matter Expert / Senior User:***  ![image](https://user-images.githubusercontent.com/11480617/188491030-9b1681c8-0dba-438f-9e20-6cddf7a538b7.png)
+- ***Business Users**: ![image](https://user-images.githubusercontent.com/11480617/188491645-52be32b8-3911-4177-a065-3626f04b7390.png)
+- ***Agile Coach***: This could be a consultant a trainer guide and support the full agile for the orginization. 
+
 
