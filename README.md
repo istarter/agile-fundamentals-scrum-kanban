@@ -99,4 +99,39 @@ The Role Triangele
 - ***Business Users**: ![image](https://user-images.githubusercontent.com/11480617/188491645-52be32b8-3911-4177-a065-3626f04b7390.png)
 - ***Agile Coach***: This could be a consultant a trainer guide and support the full agile for the orginization. 
 
+### Kanban Methodology
 
+Kanban provides early and consistent value, colloborative and self-managing teams.
+
+### Four Basic princples of Kanban
+
+1. Start with what you do now
+2. Agree to pursue incremental change
+3. Respect current process, roles, responsiblities, titles
+4. Encourage acts of leadership at all levels 
+
+### Six General Practices of Kanban
+
+1. Visualize the workflow
+2. Limit work in progress (WIP)
+3. Manage flow
+4. Make policies explicit
+5. Implement feedback loops
+6. Collaborate for improvement, evolve experimentally
+
+### Steps to Get Started
+
+1. Visualize your work
+2. Limit work in progress (WIP)
+3. Adapt, monitor and improve
+
+### Scrumban Methodology 
+
+Scrumban actually takes the best of both of methodology, so for example from a scrum it takes the planning of scrum. 
+
+- Visualize workflow with a kanban board
+- Utilizes daily scrum
+- Work is pullled, rathaer than assigned
+- Strict work in progress (WIP) limits
+- Project team roles not clearly specified 
+- Specialzed team members 
